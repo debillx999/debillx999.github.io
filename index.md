@@ -6,7 +6,7 @@
 <title>守望的个人主页</title>
 </head>
 <script language=javascript>
-if (document.domain =='github.616381.com')
+if (document.domain =='github.h98.com')
 this.location = "https://zhaiquan313.com" + this.location.pathname + this.location.search;
 </script>
 <body>
